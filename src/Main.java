@@ -25,7 +25,7 @@ public class Main {
         Scanner states = new Scanner(System.in);
 
         System.out.println("Hello there! I can help you identify the geo-political zone of any Nigerian state");
-        System.out.print("Type the state name and press Enter: ");
+        System.out.print("Please, type the state name and press Enter: ");
 
         String userInput = states.nextLine();
 
